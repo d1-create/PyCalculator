@@ -9,3 +9,9 @@ def Divide(x,y):
 
 def Multiply(x,y):
     return x*y
+
+def sqrt(x):
+    return x/x
+
+def power(x,y):
+    return x**y
